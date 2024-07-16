@@ -1,0 +1,4 @@
+//                                             Beecrowd - 1004
+x1 = int(input())
+x2 = int(input())
+print(f"PROD = {x1*x2}")
