@@ -1,0 +1,4 @@
+//                                             Beecrowd - 1003
+x1 = int(input())
+x2 = int(input())
+print(f"SOMA = {x1+x2}")
